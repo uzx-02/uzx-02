@@ -22,7 +22,7 @@ I believe the best way to learn is to **build in public** — which is exactly w
 ## 🚀 Featured Projects
 
 ### QuMail — Quantum-Secure Email Client
-> *A proprietary PQC implementation for civilian communications, aligned with ISRO standards and national security deadlines.*
+> *An open-source PQC implementation for civilian communications, aligned with ISRO standards and national security deadlines.*
 
 QuMail adds a transparent layer of **post-quantum cryptography** to Gmail and Yahoo — with no changes needed from recipients. Built in alignment with **ISRO Problem Statement PS 25179** and India's CII PQC deadline of December 31, 2028.
 
@@ -31,7 +31,8 @@ QuMail adds a transparent layer of **post-quantum cryptography** to Gmail and Ya
 - ☁️ Cloud Run portal for non-QuMail recipients with Firestore session isolation
 - 🏆 **2nd Runner Up — HackToon 1.0, AIKTC**
 
-> *Note: Repository access is restricted to protect ongoing research and proprietary architectural designs. Full documentation and code audits are available for academic or professional review upon request.*
+**[→ View on GitHub](https://github.com/uzx-02/QuMail)**
+
 
 ---
 
@@ -56,7 +57,8 @@ A research-grade, four-layer defense system integrating a physical entropy engin
 **Cybersecurity**
 ![SOC](https://img.shields.io/badge/SOC-Analysis-red?style=flat-square)
 ![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-darkred?style=flat-square)
-![VAPT](https://img.shields.io/badge/VAPT-orange?style=flat-square)
+\
+![VAPT](https://img.shields.io/badge/VAPT-orange?style=flat-square
 ![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-critical?style=flat-square)
 ![CTI](https://img.shields.io/badge/Cyber_Threat_Intelligence-blue?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-black?style=flat-square)
@@ -119,7 +121,7 @@ When I'm not hunting threats or breaking cryptography (ethically), I'm probably 
 
 <p align="left">
   <a href="https://linkedin.com/in/mohammed-uzair-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:uzair.shaikh.sec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 > *"The quantum future isn't coming — it's already being harvested. I'm building the defences for it."*
