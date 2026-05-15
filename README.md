@@ -34,7 +34,7 @@
 
 ```yaml
 operator: Mohammed Uzair Shaikh
-role: Security Engineer · Threat Intelligence Analyst · PQC Researcher
+role: AI Security Engineer · Threat Intelligence Analyst · PQC Researcher
 location: Mumbai, India
 clearance: UNCLASSIFIED // TLP:CLEAR
 education: B.Sc. (Hons.) AIML — University of Mumbai [2025–2029]
