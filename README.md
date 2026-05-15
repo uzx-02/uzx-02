@@ -4,7 +4,7 @@
 <!--                     ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003333,100:008080&height=220&section=header&text=Mohammed%20Uzair%20Shaikh&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=e0ffff&desc=Security%20Engineer%20%E2%80%A2%20Threat%20Intelligence%20%E2%80%A2%20Post-Quantum%20Cryptography&descAlignY=60&descSize=16&descAlign=50" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003333,100:008080&height=220&section=header&text=Mohammed%20Uzair%20Shaikh&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=e0ffff&desc=AI%20Security%20Engineer%20%E2%80%A2%20Threat%20Intelligence%20%E2%80%A2%20Post-Quantum%20Cryptography&descAlignY=60&descSize=16&descAlign=50" alt="Header" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
