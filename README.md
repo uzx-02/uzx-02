@@ -78,7 +78,7 @@ motto: "The quantum future isn't coming — it's already being harvested."
 
 |            Medal            | Project                              | Issued By                       |   Year   |
 | :-------------------------: | ------------------------------------ | ------------------------------- | :------: |
-|    🥉 **2nd Runner Up**     | QuMail — Quantum-Secure Email Client | HackToon 1.0, AIKTC             |   2025   |
+|    🥉 **2nd Runner Up**     | QuMail — Quantum-Secure Email Client | HackToon 1.0, AIKTC             |   Mar 2026   |
 | 🎖️ **Top 8 / 1,000+ Teams** | Quantum-AI Hybrid Defense System     | Aavishkar, University of Mumbai | Dec 2025 |
 
 > _The Aavishkar project was independently rated at **Graduate / PhD level** for research maturity and novel hardware-seeded quantum integration — competing across all Engineering & Technology teams of Mumbai University._
