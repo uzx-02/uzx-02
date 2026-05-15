@@ -4,11 +4,11 @@
 <!--                     ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003333,100:008080&height=220&section=header&text=Mohammed%20Uzair%20Shaikh&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=008080" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003333,100:008080&height=220&section=header&text=Mohammed%20Uzair%20Shaikh&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=e0ffff&desc=AI%20Security%20Engineer%20%E2%80%A2%20Threat%20Intelligence%20%E2%80%A2%20Post-Quantum%20Cryptography&descAlignY=60&descSize=16&descAlign=50" alt="Header" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=008080&center=true&vCenter=true&multiline=false&width=750&lines=The+quantum+future+isn't+coming+—+it's+being+harvested." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=008080&center=true&vCenter=true&multiline=false&width=750&lines=The+quantum+future+isn't+coming+%E2%80%94+it's+already+being+harvested.;Building+post-quantum+defenses+before+the+breach.;Breaking+things+ethically+since+2022.;CTI+%7C+PQC+%7C+Adversarial+AI+%7C+Zero-Trust+Architecture." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -81,7 +81,7 @@ motto: "The quantum future isn't coming — it's already being harvested."
 |    🥉 **2nd Runner Up**     | QuMail — Quantum-Secure Email Client | HackToon 1.0, AIKTC             |   2025   |
 | 🎖️ **Top 8 / 1,000+ Teams** | Quantum-AI Hybrid Defense System     | Aavishkar, University of Mumbai | Dec 2025 |
 
-> _The Aavishkar project was independently rated at **Graduate / PhD level** for research maturity and novel hardware-seeded quantum integration — competing across all Engineering & Technology teams._
+> _The Aavishkar project was independently rated at **Graduate / PhD level** for research maturity and novel hardware-seeded quantum integration — competing across all Engineering & Technology teams of Mumbai University._
 
 </div>
 
@@ -300,9 +300,9 @@ LAYER ARCHITECTURE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=uzx-02&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=008080&icon_color=008080&title_color=00cccc&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=uzx-02&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=008080&icon_color=008080&title_color=00cccc&text_color=c9d1d9&ring_color=008080&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzx-02&layout=compact&theme=dark&bg_color=0a0a0a&border_color=008080&title_color=00cccc&text_color=c9d1d9&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzx-02&layout=compact&theme=dark&bg_color=0a0a0a&border_color=008080&title_color=00cccc&text_color=c9d1d9&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -314,7 +314,7 @@ LAYER ARCHITECTURE
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TROPHIES                                      -->
-<!-- ═══════��═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏅 GitHub Trophies
 
@@ -413,5 +413,3 @@ LAYER ARCHITECTURE
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008080,100:0a0a0a&height=120&section=footer&animation=twinkling" alt="Footer"/>
 
 _`// EOF — All research conducted legally and ethically. All IOCs are public reference only.`_
-
-</div>
