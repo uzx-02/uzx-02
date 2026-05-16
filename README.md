@@ -146,13 +146,13 @@ graph LR
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│              ZERO-TRUST FILE ENCRYPTION              │
+│              ZERO-TRUST FILE ENCRYPTION             │
 ├──────────────────┬──────────────────────────────────┤
 │  Key Derivation  │  Argon2id (memory-hard KDF)      │
 │  Encryption      │  AES-256-GCM (authenticated)     │
-│  Architecture    │  Strict separation per operation  │
-│  Platform        │  Cross-platform desktop utility   │
-│  Threat Model    │  Hostile environment, no trust    │
+│  Architecture    │  Strict separation per operation │
+│  Platform        │  Cross-platform desktop utility  │
+│  Threat Model    │  Hostile environment, no trust   │
 └──────────────────┴──────────────────────────────────┘
 ```
 
