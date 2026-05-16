@@ -175,19 +175,19 @@ graph LR
 │  INVESTIGATION: WIXXI TOOLS — PhaaS Ecosystem Forensics         │
 │  Classification: TLP:CLEAR  |  Confidence: HIGH                 │
 ├─────────────────────────────────────────────────────────────────┤
-│  INFRASTRUCTURE                                                  │
+│  INFRASTRUCTURE                                                 │
 │  ├─ 68-domain Anycast Cluster — mapped and documented           │
 │  ├─ Live Telegram C2 workflow — extracted and analyzed          │
 │  └─ Programmatic AI-scraper evasion (no-ai, no-scraping tags)   │
-│                                                                  │
+│                                                                 │
 │  TTPs (MITRE ATT&CK v19)                                        │
 │  ├─ AiTM session cookie interception → MFA bypass               │
 │  ├─ Adversary-in-the-Middle phishing proxy infrastructure       │
 │  └─ Telegram-based C2 exfiltration channels                     │
-│                                                                  │
+│                                                                 │
 │  IOC — STIX 2.1 (ACTIVE REFERENCE)                              │
-│  [file:hashes.SHA256 =                                           │
-│  '5f5ee6cccae791f9cc3d34020422c5cb49dd9f20522e53e71955ce472...'] │
+│  [file:hashes.SHA256 =                                          │
+│  '5f5ee6cccae791f9cc3d34020422c5cb49dd9f20522e53e71955ce472...']│
 │  Valid-from: 2025-07-01  |  Status: ACTIVE REFERENCE            │
 └─────────────────────────────────────────────────────────────────┘
 ```
