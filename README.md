@@ -38,7 +38,7 @@ role: AI Security Engineer · Threat Intelligence Analyst · PQC Researcher
 location: Mumbai, India
 clearance: UNCLASSIFIED // TLP:CLEAR
 education: B.Sc. (Hons.) AIML — University of Mumbai [2025–2029]
-  Diploma in AIML Engineering               [2022–2025]
+           Diploma in AIML Engineering               [2022–2025]
 
 focus_areas:
   - Post-Quantum Cryptography (ML-KEM / FIPS 203)
